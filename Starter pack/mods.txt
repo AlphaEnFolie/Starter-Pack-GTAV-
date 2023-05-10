@@ -1,0 +1,5 @@
+Créer un dossier "mods" dans le répértoire de gta 5 .
+
+Copier (x64.rpf, common.rpf, dossier Update et X64)
+
+Dans le dossier "mods" coller (x64.rpf, common.rpf, dossier Update et X64)

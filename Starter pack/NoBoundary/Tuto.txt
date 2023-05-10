@@ -1,0 +1,3 @@
+à quoi ça sert ? 
+
+NoBoundaryLimits sert à enlever la limite de la map (H | L | L)

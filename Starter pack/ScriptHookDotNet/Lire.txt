@@ -1,0 +1,3 @@
+Il s'agit d'un plugin ASI pour Grand Theft Auto V, basé sur le C++ ScriptHook d'Alexander Blade, qui permet d'exécuter des scripts écrits dans n'importe quel langage .NET dans le jeu.
+
+La page des problèmes doit être principalement utilisée pour les rapports de bogues et les idées d'amélioration. Les questions liées aux scripts GTA V en général sont mieux traitées dans les forums dédiés à cet effet, comme [gta5-mods.com](https://forums.gta5-mods.com/category/5/general-modding-discussion) ou [gtaforums.com](https://gtaforums.com/forum/372-coding/).

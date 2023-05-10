@@ -1,0 +1,5 @@
+Insataller le .oiv via OpenIV 
+
+à quoi ça sert ?
+
+Le Setup Package une fois installé un fichier Scripts va ce crée automatiquement dans les racines du jeu
